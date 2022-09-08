@@ -1,1 +1,1 @@
-### This repository include brief information about Apache Spark
+### This repository includes brief information about Apache Spark
