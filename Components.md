@@ -1,3 +1,12 @@
+## Pyspark installation
+1. Install Python >= 3.7 
+2. Install pyspark using pip: ````pip install pyspark````
+3. Install Java
+4. Set Environmental Variables in Java as on the screens bellow
+![Markdown Logo](img/var1.jpg)
+![Markdown Logo](img/var2.jpg)
+<br><br><br><br><br>
+
 # Core
 >Spark Core is the base of the whole project. It provides distributed task dispatching, scheduling, and basic I/O functionalities. Spark uses a specialized fundamental data structure known as RDD (Resilient Distributed Datasets) that is a logical collection of data partitioned across machines. RDDs can be created in two ways; one is by referencing datasets in external storage systems and second is by applying transformations (e.g. map, filter, reducer, join) on existing RDDs.
 
